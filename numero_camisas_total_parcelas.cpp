@@ -5,7 +5,6 @@ e informa valor a pagar e parcelas.
 
 */
 
-
 #include<iostream>
 
 using namespace std;
